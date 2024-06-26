@@ -1,6 +1,6 @@
 package scope;
 
-public class Scope {
+public class Scope1 {
 
     // 지역변수는 본인의 코드 블록 안에서만 생존함
     // 코드블록 안에서는 얼마든지 접근가능 / 벗어나면 제거되기 때문에 접근 불가
